@@ -1,0 +1,14 @@
+﻿Timestamp	Filename	Error	Message
+2023-02-10 13:44:48.692 +0800	PESANAN BARANG.fmp12	0	*** Started consistency check of improperly closed file, total of 188 block(s) to check
+2023-02-10 13:44:48.692 +0800	PESANAN BARANG.fmp12	8432	Page 188 marked free but not in free list
+2023-02-10 13:44:48.692 +0800	PESANAN BARANG.fmp12	0	Reset maximum block sequence number to 90360
+2023-02-10 13:44:48.692 +0800	PESANAN BARANG.fmp12	0	*** Completed consistency check, checked 188 block(s)
+2023-03-01 16:16:22.642 +0800	GL.fmp12	0	*** Started consistency check of improperly closed file, total of 72 block(s) to check
+2023-03-01 16:16:22.643 +0800	GL.fmp12	8432	Page 69 marked free but not in free list
+2023-03-01 16:16:22.644 +0800	GL.fmp12	8432	Page 72 marked free but not in free list
+2023-03-01 16:16:22.645 +0800	GL.fmp12	0	Reset maximum block sequence number to 82360
+2023-03-01 16:16:22.645 +0800	GL.fmp12	0	*** Completed consistency check, checked 72 block(s)
+2023-03-10 12:27:41.067 +0800	INVENTORY 2 - Copy.fmp12	0	*** Started consistency check of improperly closed file, total of 409 block(s) to check
+2023-03-10 12:27:41.081 +0800	INVENTORY 2 - Copy.fmp12	8432	Page 409 marked free but not in free list
+2023-03-10 12:27:41.081 +0800	INVENTORY 2 - Copy.fmp12	0	Reset maximum block sequence number to 379333
+2023-03-10 12:27:41.082 +0800	INVENTORY 2 - Copy.fmp12	0	*** Completed consistency check, checked 409 block(s)
